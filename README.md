@@ -3,7 +3,7 @@ Useable Command Prompt kit
 ## Command promt useable commm
 * `ipconfig`
 * `ipconfig /all`
-* `ipconfig /all` | findstr DNS #(in place of DNS any file or web name we can use)
+* `ipconfig /all | findstr DNS` #(in place of DNS any file or web name we can use)
 * `ipconfig /release` (it will remove current ip address)
 * `ipconfig /renew` (we wil get new fresh ip address) *Note (it will refresh all interface)
 * `ipconfig /displaydns`  (basicall all website it knows about their ip addresses)
